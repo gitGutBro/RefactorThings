@@ -12,4 +12,3 @@ public class RestartButton : MonoBehaviour
         SceneManager.LoadScene(0);
     }
 }
-//
